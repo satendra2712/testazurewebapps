@@ -6,6 +6,7 @@
     "license": "MIT",
     "author": "Microsoft",
     "scripts": {
+        "build": "echo 'build script executed'"
         "start": "node index.js"
     }
 }
